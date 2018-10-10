@@ -1,0 +1,8 @@
+{  
+   
+   "label":"Chronique du monde depuis la cr\u00e9ation, et des rois de France et d'Angleterre, jusqu'\u00e0 l'an 1461: manuscript, [ca. 1461]. MS Typ 41. Houghton Library, Harvard University, Cambridge, Mass.",
+   "@context":"http://iiif.io/api/presentation/1/context.json",
+   "logo":"https://iiif.lib.harvard.edu/static/manifests/harvard_logo.jpg",
+   "@id":"https://iiif.lib.harvard.edu/manifests/drs:48309543",
+   "@type":"sc:Manifest"
+}

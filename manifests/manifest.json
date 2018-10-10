@@ -1,0 +1,72 @@
+{  
+   "license":"TakakiSotoIshii",
+
+   "sequences":[  
+      {  
+         "canvases":[  
+            {  
+               "label":"(seq. 1)",
+               "width":1694,
+               "@type":"sc:Canvas",
+               "images":[  
+                  {  
+                     "resource":{  
+                        "format":"image/jpeg",
+                        "height":2317,
+                        "width":1694,
+                        "@id":"http://localhost:8000/sampleimages/channey-636965-unsplash.jpg",
+                        "@type":"dctypes:Image"
+                     },
+                     "on":"https://iiif.lib.harvard.edu/manifests/drs:48309543/canvas/canvas-48309544.json",
+                     "motivation":"sc:painting",
+                     "@id":"https://iiif.lib.harvard.edu/manifests/drs:48309543/annotation/anno-48309544.json",
+                     "@type":"oa:Annotation"
+                  }
+               ],
+               "height":2317,
+               "@id":"https://iiif.lib.harvard.edu/manifests/drs:48309543/canvas/canvas-48309544.json",
+               "thumbnail":{  
+                  "@id":"http://localhost:8000/sampleimages/channey-636965-unsplash.jpg",
+                  "@type":"dctypes:Image"
+               }
+            },
+            {  
+               "label":"(seq. 1)",
+               "width":1694,
+               "@type":"sc:Canvas",
+               "images":[  
+                  {  
+                     "resource":{  
+                        "format":"image/jpeg",
+                        "height":2317,
+                        "width":1694,
+                        "@id":"http://localhost:8000/sampleimages/charles-deluvio-628938-unsplash.jpg",
+                        "@type":"dctypes:Image"
+                     },
+                     "on":"https://iiif.lib.harvard.edu/manifests/drs:48309543/canvas/canvas-48309544.json",
+                     "motivation":"sc:painting",
+                     "@id":"https://iiif.lib.harvard.edu/manifests/drs:48309543/annotation/anno-48309544.json",
+                     "@type":"oa:Annotation"
+                  }
+               ],
+               "height":2317,
+               "@id":"https://iiif.lib.harvard.edu/manifests/drs:48309543/canvas/canvas-48309544.json",
+               "thumbnail":{  
+                  "@id":"http://localhost:8000/sampleimages/charles-deluvio-628938-unsplash.jpg",
+                  "@type":"dctypes:Image"
+               }
+            }  
+            
+         ],
+         "viewingDirection":"left-to-right",
+         "@id":"https://iiif.lib.harvard.edu/manifests/drs:48309543/sequence/normal.json",
+         "@type":"sc:Sequence",
+         "viewingHint":"paged"
+      }
+   ],
+   "label":"Smug Dogs",
+   "@context":"http://iiif.io/api/presentation/1/context.json",
+   "logo":"http://localhost:8000/sampleimages/avicii_logo.png",
+   "@id":"https://iiif.lib.harvard.edu/manifests/drs:48309543",
+   "@type":"sc:Manifest"
+}
